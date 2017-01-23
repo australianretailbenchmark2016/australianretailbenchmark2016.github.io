@@ -1,0 +1,797 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Australian Retail Benchmark",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.10.8",
+    "uniqCompNum": 108,
+    "versionPublish": "3.10.8",
+    "favicon": "@PROJECT_PATH@/assets/images/woman-1820991-1.jpg",
+    "noImageResize": "true",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-90765007-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Australian Retail Benchmark 2016",
+        "meta_descr": "Australian Retail Benchmark, Financial ratio assessment of ASX listed retailers, Myer, David Jones, Bunnings, BigW, Country Road, Kmart, Target, Coles, Woolworths",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Jump to individual retailer analysis</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content2-7\">Myer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">David Jones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">KMart</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Target</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Woolworths</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Harvey Norman</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">JB Hi-FI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Office Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Country road</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bunnings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">BigW</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                \n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#content2-7\" code-editable-id=\"118\">Overview</a></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"true\" code-editable-id=\"119\">Jump to individual retailer analysis</a><div class=\"dropdown-menu\">\n                        \n                     \n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1c\" code-editable-id=\"120\">Myer</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1e\" code-editable-id=\"121\">David Jones</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1l\" code-editable-id=\"122\">KMart</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1n\" code-editable-id=\"123\">Target</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1p\" code-editable-id=\"124\">Woolworths</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-1z\" code-editable-id=\"125\">Coles</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-25\" code-editable-id=\"126\">Harvey Norman</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-26\" code-editable-id=\"127\">JB Hi-FI</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-28\" code-editable-id=\"128\">Office Works</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-2a\" code-editable-id=\"129\">Country road</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-2c\" code-editable-id=\"130\">Bunnings</a>\n                            <a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#content1-2h\" code-editable-id=\"131\">BigW</a>\n                        \n                    </div></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #282828;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "menu-2w"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-1820991-2000x1143.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Australian Retail Benchmark",
+          "text": "Financial ratio assessment of ASX listed retailers<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\" mbr-section-hero mbr-section mbr-section-full mbr-section-with-arrow mbr-after-navbar \" style=\"background-image: url(@PROJECT_PATH@/assets/images/woman-1820991-2000x1143.jpg);background-position: 9% 38%;\">\n   \n        <div class=\"mbr-overlay\" style=\"opacity: 0.2; background-color: rgb(0, 0, 0);\"></div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"gradient-overlay\"> <!--extension-->\n                <div class=\"container\">\n                    <div class=\"row\">\n                        <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n                            <div class=\"top-border\"></div><!--extension-->\n                               <h1 class=\"mbr-section-title mbr-editable-content\" code-editable-id=\"38\">Australian Retail Benchmark</h1>\n                               <div class=\"bottom-border\"></div><!--extension-->\n                                <p class=\"mbr-section-lead-override lead mbr-editable-content\" code-editable-id=\"39\">Financial ratio assessment of ASX listed retailers<br></p>\n                           \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    <!--extension-->\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);\n@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.mbr-section-title {\n\tfont-family: 'PT Sans Narrow', sans-serif;\n\t/*Extensions*/\n    font-size: 4.5rem;\n    font-weight: 400; \n}\n.mbr-section-lead {\n\tfont-family: 'Lora', serif;\n}\n/*Extensions*/\n.top-border {\n    border-top: 3px solid #ec6262;\n    margin:auto;\n    width:78%;\n}\n.bottom-border {\n    border-bottom: 3px solid #ec6262;\n    width:78%;\n    vertical-align:top;\n    margin:-25px auto;\n}\n\n.gradient-overlay {\n    background-color: rgba(0, 0, 0, 0);\n    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0) 100%);\n   bottom: -100%;\n    height: auto;\n    left: -2rem;\n    min-height: 0;\n    right: -2rem;\n    top: -100%;\n    z-index: -1;\n}\n.section-background-image {\n    background-position: center center;\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-position: 9.1505% 38.1882%;\n}\n.mbr-section-lead-override {\n    color: #fff;\n    font-family: Lora;\n    font-size: 1.5rem;\n    font-style: italic;\n    margin-top: 1em;\n    width:78%;    \n    margin:30px auto;\n}\n.focuspoint {\n    overflow: hidden;\n    position: relative;\n}\n.focuspoint img {\n    display: block;\n    height: auto;\n    left: 0;\n    margin: 0;\n    max-height: none;\n    max-width: none;\n    min-height: 100%;\n    min-width: 100%;\n    position: absolute;\n    top: 0;\n    width: auto;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "header1-o"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p></p><p>Australia’s retail sector is in a unique, and possibly short-lived position as it enjoys a relatively healthier financial situation despite higher wages stressing retailer SG&amp;A. Unlike other countries, Australia has yet to deal with a disruptive online retailer presence from companies such as Amazon. But rumors of Amazon’s imminent entrance into the Australian retail sector are ramping up, so it’s safe to assume that we’re looking at one of the last few years of brick-and-mortar retailers enjoying this level of market dominance.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); color: rgb(35, 35, 35); font-family: Raleway, sans-serif; line-height: 1.5;\">This financial analysis represents my broad, objective perspective on the factors impacting many of the publicly (ASX) listed Australian retailers. &nbsp;I will focus on the immediate concerns facing these retailers and add my perspective of what innovations should be put in place for remaining competitive against the likes of Amazon. Having spent the last four years spreading my focus around 26 retailers in more than 13 countries gives me a unique perspective on the retail environment in Australia. I have purposely kept the insights gained while personally working with some of these retailers away from this analysis. This better allows me to get an outside-in perspective of the industry while also respecting nondisclosure agreements.&nbsp;</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Though you can find much of the data used in this post within the annual statements of these publicly listed companies, my goal is to consolidate those telling financial metrics and give you a unique, holistic perspective while also deciphering individual brand performance for holding companies such as Woolworths, Wesfarmers, etc. To form my speculative analysis for individual brand performance, I’m comparing an assortment of factors against a known baseline such as revenue, spend and/or operating expense.</p><p><br></p><p>My focus is largely on profitability and liquidity ratios and less on investor ratios. For those layman investors, my ROE assessment is only a personal perspective and not to be used to determine financial health of a company</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-22",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/retail-sketch.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>A zoomable version of this benchmark is available <a href=\"http://extrazoom.com/image-76342.html\" target=\"_blank\">here</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Overview: The Australian Retail Market</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">There are two things that standout at a macro level.</span></p><p><br></p><ol><li>&nbsp;Net margins are higher for observed Australian retailers than global counterparts. This probably reflects the less volatile nature of the Australian retail market without disruptors such as Amazon (as mentioned above).</li><li>Higher SG&amp;A percentage, as a portion of revenue, which most likely is the result of Australia’s higher wages. As the Australian inflation rate rises and the Fair Work Commission introduces a 2.6 percent increase in minimum wages, you can expect the SG&amp;A ratio to rise, industry-wide. To give you some context, at Tesco, Britain’s biggest retailer, the wage costs are about £4.5bn, which indicates that every 1 percent rise in wage costs increases the company’s expenses by about £45m, so a 2.6 percent increase could have significant impact on retailers’ operating/net margins.</li></ol><p><br></p><p>Now, let's move on to the individual retailer analyses.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Myer</b></p><p><br></p><p>Myer, established in 1900, is Australia’s largest department store. It operates across 60+ locations. There are two key call outs for Myer based on the financial analysis:</p><p><br></p><ol><li>SG&amp;A costs are a significant portion of revenue at 60% . No other Australian retailer operates at such high ratio. David Jones, Kmart and Target bear the same costs for Australian labour, yet SG&amp;A remains much higher for Myer. This indicates some operational overhead, and this problem is likely to worsen once the Fair Work Commission’s increase takes effect;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The impact on gross margin. Myer’s annual report states that the hit taken on their gross margins is primarily a consequence of increased concessional sales (up 21 percent and now equating to 19 percent of total sales). That may well be the case, but it’s hard to ignore the drastic impact that SG&amp;A is having on gross margin.</span></li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions</i>: If Myer decreased their SG&amp;A spend and implemented strategies to increase the margin on concessions, they could raise their gross margins even while carrying a higher-than-average SG&amp;A. After having seen how John Lewis and Harrods manage their concessions through my brief stint at Oxford University (e.g., offering digital signage in-store &amp; concessions staff training as a service), I think there are definitely opportunities to increase Myer’s concessions margin. Especially since concessions seem to be more prevalent globally with beauty bars, store-in-store services for premier differentiating brands and financial services such as exchanges</p>",
+          "text2": "<blockquote>Combatting likes of Amazon: While these two strategies should certainly help drive margins, they may not be enough to fight the potential entrance of disruptors. Myer’s tactic of bringing in wanted brands (TopShops, Topman, etc.), optimising space in store (e.g., John Lewis store-in-store), urbanisation of store locations (e.g., $40M related to Werribee store refurbishment) and technology innovations (such as eBay virtual reality store) are a good start, but weathering the disruption requires bolder investments into digital and store channels. I would personally like to see Myer thump up its digital strategy, disclose digital investments in its annual statements in addition to reporting online growth as a precursor to driving shareholder confidence. With a large influx of visiting Asian shoppers, Myer could look to expand into luxury retail and enhance tailored shopping experiences akin to likes of Harrods/Selfridges in London, Isetan in Tokyo, Shinsegae in Seoul, etc. to become the premier department store of Australia</blockquote>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-5 lead mbr-editable-full\" code-editable-id=\"723\"><p><em>Potential Solutions</em>: If Myer decreased their SG&amp;A spend and implemented strategies to increase the margin on concessions, they could raise their gross margins even while carrying a higher-than-average SG&amp;A. After having seen how John Lewis and Harrods manage their concessions through my brief stint at Oxford University (e.g., offering digital signage in-store &amp; concessions staff training as a service), I think there are definitely opportunities to increase Myer’s concessions margin. Especially since concessions seem to be more prevalent globally with beauty bars, store-in-store services for premier differentiating brands and financial services such as exchanges</p></div>\n            <div class=\"col-xs-12 col-md-7 lead mbr-editable-full\" code-editable-id=\"724\"><blockquote>Combatting likes of Amazon: While these two strategies should certainly help drive margins, they may not be enough to fight the potential entrance of disruptors. Myer’s tactic of bringing in wanted brands (TopShops, Topman, etc.), optimising space in store (e.g., John Lewis store-in-store), urbanisation of store locations (e.g., $40M related to Werribee store refurbishment) and technology innovations (such as eBay virtual reality store) are a good start, but weathering the disruption requires bolder investments into digital and store channels. I would personally like to see Myer thump up its digital strategy, disclose digital investments in its annual statements in addition to reporting online growth as a precursor to driving shareholder confidence. With a large influx of visiting Asian shoppers, Myer could look to expand into luxury retail and enhance tailored shopping experiences akin to likes of Harrods/Selfridges in London, Isetan in Tokyo, Shinsegae in Seoul, etc. to become the premier department store of Australia</blockquote></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "content6-1d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>David Jones</b></p><p><br></p><p>David Jones, the oldest departmental store in Australia, was founded in 1838. Owned by Woolworths in South Africa, it operates across 40 stores. In comparison to Myer, David Jones’ shows 12 percent of their sales through concessions (Myer at 21 percent), with larger sales coming through private brands. David Jones’ approach is to bring in wanted brands, leveraging the Woolworths SA brands (before branching out on the much publicised food business). The two biggest issues facing David Jones are:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Their significant gross margin;</span><br></li><li>Their significant operating margin</li></ol><p><br></p><p>While each of these margins has been reduced from the prior year, they still exceed most in the industry, indicating they are less subject to burdened profitability ratios. However, I do not see these as sustainable and could reduce to put more cash back into the end consumer. Inspite of the high margins average growth of 8 percent revenue per store and higher per-store EBITDA, David Jones’ average revenue per store is 2 percent less than Myer.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions:</i> My recommendation to David Jones would be to increase revenue per store as the key financial burden (or opportunity in this case). Days sales and inventory outstanding are other key operating levers that David Jones could address to increase cash flow of operations. I have excluded DPO as trade liabilities are purely a derivation as a percent of total sales and accrued lease that has more than doubled over two years, probably indicating higher lease expenses</p>",
+          "text2": "<blockquote>Combatting likes of Amazon: While investing in broader categories, such as fresh food, expanding operations into New Zealand, capitalizing on real estate assets (through leaseback/sale of the market street operations) and smaller format stores (Borrangaroo) are good strategies, I do wonder whether David Jones is prepared to tackle the larger disruption effects. I would like to see broader investments in store transformation (especially making those windows shine at least during the peak holiday season) and digital technologies (I’ve yet to see that loyalty program take effect since announcements in 2015). This will ultimately help them generate higher store traffic, customer reach and personalised sales.</blockquote>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-5 lead mbr-editable-full\" code-editable-id=\"692\"><p><em>Potential Solutions:</em> My recommendation to David Jones would be to increase revenue per store as the key financial burden (or opportunity in this case). Days sales and inventory outstanding are other key operating levers that David Jones could address to increase cash flow of operations. I have excluded DPO as trade liabilities are purely a derivation as a percent of total sales and accrued lease that has more than doubled over two years, probably indicating higher lease expenses</p></div>\n            <div class=\"col-xs-12 col-md-7 lead mbr-editable-full\" code-editable-id=\"693\"><blockquote>Combatting likes of Amazon: While investing in broader categories, such as fresh food, expanding operations into New Zealand, capitalizing on real estate assets (through leaseback/sale of the market street operations) and smaller format stores (Borrangaroo) are good strategies, I do wonder whether David Jones is prepared to tackle the larger disruption effects. I would like to see broader investments in store transformation (especially making those windows shine at least during the peak holiday season) and digital technologies (I’ve yet to see that loyalty program take effect since announcements in 2015). This will ultimately help them generate higher store traffic, customer reach and personalised sales.</blockquote></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "content6-1f"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1j",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1552.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Snapshot of window display from Selfridges during my retail trip to London in 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>KMart</b></p><p><br></p><p>This Australian chain of discount department stores, owned by Wesfarmers group and operating across 203 locations, is a story of success as compared to North American Kmart brand owned by Sears. Note that Kmart in Australia has no affiliation with the NA Kmart. It seems the retailer is successful on all aspects: revenues are up, profit margins are up and costs are down. </p><p><br></p><p>Still, I note one potential problem:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Kmart’s cannibalization has hurt the parent company earnings significantly with the negatively impacted Target brand. It would seem the recent investment in store transformations in Target to push Target into the middle market while keeping Kmart as the EDLP brand has yet to pay off. Are we yet to see a different strategy that could potentially indicate a Kmart and Target merger even at the risk of consumer drift?</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions</i>: I would like to see Kmart provide clearer differentiation strategy &amp; bolder investment in technology now that they have setup strong retail fundamentals (stock management, staffing &amp; merchandising range management)</p>",
+          "text2": "<blockquote>Combatting likes of Amazon: It’s possible that the success the retailer is currently enjoying is, in part, a result of the non-Amazon effect. If so, that may mean that it could face severe competition and losses if Amazon becomes a major Australian player. As mentioned earlier Kmart needs to shift it’s innovation needle than just focus on retail fundamentals.</blockquote>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"715\"><p><em>Potential Solutions</em>: I would like to see Kmart provide clearer differentiation strategy &amp; bolder investment in technology now that they have setup strong retail fundamentals (stock management, staffing &amp; merchandising range management)</p></div>\n            <div class=\"col-xs-12 col-md-8 lead mbr-editable-full\" code-editable-id=\"716\"><blockquote>Combatting likes of Amazon: It’s possible that the success the retailer is currently enjoying is, in part, a result of the non-Amazon effect. If so, that may mean that it could face severe competition and losses if Amazon becomes a major Australian player. As mentioned earlier Kmart needs to shift it’s innovation needle than just focus on retail fundamentals.</blockquote></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "content6-1m"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Target</b></p><p><br></p><p>Target Australia, also belonging to Wesfarmers group, paints a picture of a retailer in trouble. Like Kmart Australia, Target in Australia has no affiliation to it’s North American counterpart. The two biggest problems they need to address are:</p><p><br></p><ol><li>Stagnant growth in sales ($18m change);</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Severe erosion of margins.</span></li></ol><p><br></p><p><i>Potential Solutions</i>: Comparable same-store sales growth is unavailable for the newly opened stores to establish if sales and margin from new store openings (at a significant large CAPEX) is profitable. Having this information might help us better understand whether investments (significant at $128m) in new stores are working. Based on revenue stagnation, it would seem Target must focus on growing revenue using the right mix of merchandising and EDLP strategy differentiated from Kmart to maintain cash flow to drive transformation. Margins are more likely to be improved with reduction in impairment expenses (approx. $600m) but likely be impacted across FY17 as this restructuring continues throughout next year as Target looks to get rid of unprofitable sales (e.g., toys sales). Overall a difficult period for Target may lie ahead as the company continues its transformation. The transition to the new William Landing location and incremental technology refreshes (e.g., InComm partnerships on gift card redemption in POS) should help but Target is still a prime brand to fall if Amazon strikes with Apparel launch in Australia. At a tactical level Target, should optimize their operating margin by controlling cost of sales.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Woolworths</b></p><p><br></p><p>Woolworths Limited is a major Australian company with extensive retail interest throughout Australia and New Zealand. It is the second largest company in Australia by revenue, after Perth-based retail-focused conglomerate Wesfarmers. Despite similar names, Woolworths Limited has no affiliation with the F.W. Woolworth Company in the United States, the now-defunct Woolworths Group in the UK or the South African chain of retail stores, Woolworths Holdings Limited.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7021b-1-800x423.png",
+                "image": "@PROJECT_PATH@/assets/images/7021b-1.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Source: Roy Morgan Single Source Australia, October 2015 – September 2016, sample n = 11,621 Australian Grocery Buyers 14+. Dollars and percentages may not add to totals due to rounding.</i></p><p><br></p><p>The two major problems I see facing this company:</p><p><br></p><ol><li>In spite of holding the largest share of the Australian super market, the company’s revenue and profit margins have slumped, primarily due to international competition (Aldi &amp; Costco) who have better labour utilization according to Morgan Stanley Analysts;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Despite better control of inventory, operating margin declined by 2 percent. The majority of revenue declines came from the petrol sales that slumped at -18 percent compared to -0.2 percent sales growth of core grocery. Petrol equated to 11 percent of the combined grocery and petrol business.</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Potential Solutions</i>: Given the situation it would seem apt that Woolworths is under pressure to preserve capital. With an already failed $1.2B loss from Masters, Woolworth seems to be looking to release capital from its sale of petrol business to BP. The much-needed capital will help strengthen its balance sheet. While larger asset optimization continues to occur, Woolworths at a macro level should focus on optimising overall CODB (namely distribution costs and labour costs associated with overtime expenses) and continue their investment with store transformation.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Online (and broadly digital) investment should be increased. Just one look at Coles Online vs Woolworths online is enough to get a comparison. I do, however, like the recent store refurbishments and look forward to seeing the likes of a Jumbo store in Breda, Netherlands (unless David Jones beat you to it)&nbsp;</span></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-7-2000x1341-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-7-2000x1341.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-5-2000x1341-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-5-2000x1341.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-6-2000x1341-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-6-2000x1341.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-9-2000x1341-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-9-2000x1341.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1s",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "Short stop at Jumbo in Netherlands on route to Australia 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Combatting likes of Amazon: With 96 percent of its fresh offerings sourced from Australian businesses, it’s time to take a hard look at what impact Amazon Fresh may have on this market mix. Like the Morrison and Ocado partnership, partnering with Amazon through its Fresh offering may be a better strategy for Woolworths than competing against them. After all, we have seen Amazon do this before in partnerships with Tyson Foods and like.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Coles</b></p><p><br></p><p>Coles, owned by Wesfarmers, was founded in 1914 and operates across 700+ stores. The retailer shows an increase in profits and revenue, but a decrease in overall margins. The main financial burdens to Coles are:</p><p><br></p><ol><li>&nbsp;The slowdown in fuel sales. This clearly stands out as we see other stores’ sales increasing by at least 6 percent;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Slower inventory sales and higher personnel costs. These are mainly affecting Wesfarmers as a group, while Coles’ margins are stable. However, these are the largest costs for the business, and therefore they should be monitored closely, as a slowdown or stagnation of revenue growth (already low on average for Coles) could lead to decreasing margins.</span></li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions:</i> By far the largest cost for the business is in product purchases, which are included in cost of sales (inventory). If there were one key initiative for Coles that I could suggest, it would be to focus any improvement in this area that will increase margins by a great extent.</p>",
+          "text2": "<blockquote>Combatting likes of Amazon:Coles should continue to invest in digital growth through its partnership with technology vendors and enter business models such as subscriptions and IoT devices to combat Amazon Pantry and Amazon Dash business models.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>While I don’t expect Coles nor Woolworth’s to roll out Amazon’s Go style consumer checkouts or even the likes of Waitrose’s quick check any time soon, it’s time for Australian consumers to demand more interactive shopping experiences (at least in major cities).</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1567-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1567.jpg",
+                "caption": "Waitrose shop &amp; scan devices",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-2-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-2.jpg",
+                "caption": "Jumbo shop &amp; scan devices",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery4-24",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Harvey Norman</b></p><p><b><br></b></p><p>Harvey Norman is a large Australian-based retailer operating across 250+ locations, selling furniture, bedding, computers, communications and consumer electrical products. It mainly operates as a franchise. The major problem facing Harvey Norman is:</p><p><br></p><ol><li>Similar to Myer, Harvey Norman’s SG&amp;A expense are significant, likely due to employee and administration costs. However, other home and electronics retailers are dealing with the same labour costs yet maintaining lower SG&amp;A.</li></ol><p><br></p><p><i>Potential Solutions:</i> I would say that the top priority for Harvey Norman is to optimise SG&amp;A, which would have a positive impact on profit margins. Cash flow improvements are probably feasible given the very high days sales/purchases/inventory outstanding. This could be a consequence of how franchisee sales cycles are managed.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>JB Hi-Fi</b></p><p><br></p><p>JB HI-FI is an Australian and New Zealand retailer of consumer goods, specialising in video games, Blu-rays, DVDs, CDs, electronics/hardware and home appliances operating across 190+ locations. They have one major, immediate problem to deal with:</p><p><br></p><ol><li>JB-HIFI has the highest COGS as a percent of revenue across any retailer.</li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions:</i> Given their high inventory to revenue ratio, the elevated COGS are probably a consequence of higher supplier margins. Negotiating supplier margins could be a focus area to improve the gross margin, which will naturally increase EBITDA per store. From its early days of clearing out Vinyl records to closing CD sales, the retailer continues to optimize merchandising mix &amp; should look to provide home transformation experiences in the strore.</p>",
+          "text2": "<blockquote>Combatting likes of Amazon: Across both Harvey Norman and JB HI-FI, the biggest challenge remains the threat of digital disruptors. Neither Harvey Norman nor JB HI-FI offer immersive store experiences around testing/trying next generation technologies. Instead, they operate more or less in a modus-operandi compared to global peers (e.g., John Lewis’ investment in Smart Home concepts or Nebraska Furniture’s Dallas Store’s investment in aspirational selling environment, price labelling and interactive displays all geared towards increasing the “show rooming” effect). This will become critical to maintaining the edge over Amazon in addition to bringing greater price transparency across online/office and allowing marketplace-based retail sales to beat traditional pure plays like Kogan.</blockquote>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-5 lead mbr-editable-full\" code-editable-id=\"762\"><p><em>Potential Solutions:</em> Given their high inventory to revenue ratio, the elevated COGS are probably a consequence of higher supplier margins. Negotiating supplier margins could be a focus area to improve the gross margin, which will naturally increase EBITDA per store. From its early days of clearing out Vinyl records to closing CD sales, the retailer continues to optimize merchandising mix &amp; should look to provide home transformation experiences in the strore.</p></div>\n            <div class=\"col-xs-12 col-md-7 lead mbr-editable-full\" code-editable-id=\"763\"><blockquote>Combatting likes of Amazon: Across both Harvey Norman and JB HI-FI, the biggest challenge remains the threat of digital disruptors. Neither Harvey Norman nor JB HI-FI offer immersive store experiences around testing/trying next generation technologies. Instead, they operate more or less in a modus-operandi compared to global peers (e.g., John Lewis’ investment in Smart Home concepts or Nebraska Furniture’s Dallas Store’s investment in aspirational selling environment, price labelling and interactive displays all geared towards increasing the “show rooming” effect). This will become critical to maintaining the edge over Amazon in addition to bringing greater price transparency across online/office and allowing marketplace-based retail sales to beat traditional pure plays like Kogan.</blockquote></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "content6-27"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Officeworks</b></p><p><br></p><p>This chain of office supplies operates across 150+ locations in Australia. Officeworks is yet another retailer that has a pretty good financial status: Revenues are up, profit margins are up and costs are down. Seems the retailer is successful on all aspects and second only to Kmart in terms of Net Margin contribution towards the parent company Wesfarmers. Their recently announced agreement with CSG to launch various subscription services for tech devices (such as printers) may prove to be an added bonus for their overall results in the next business year, especially as this is likely to require few additional employees and little-to-no effect on SG&amp;A.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Combatting likes of Amazon: Perhaps the equivalent of Staples down under, Officeworks’ social presence across the channels is distinctive amongst Australian retailers but dwarfs Staples when it comes to online SKU count (20k+ compared to 1m+). Like most Australian retailers, the percent of SKUs available offline exceeds that of online. Though office supplies remain the core merchandising strategy and expansion into broader office suppliers such as furniture indicate a good mix, I wonder whether the vested strategy of deep assortment mix is the right model in an environment of marketplace dominator Amazon. Despite successful financial operations and a great local example of a merged B2B and B2C business model I would like Officeworks to leap frog and launch digital offerings such as supplier direct to consumer offering models in addition to their core business before the launch of a fully established Amazon business locally.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Country Road</b></p><p><br></p><p>Country Road is a middle-market clothing retailer located in Australia, New Zealand and South Africa with 68 freestanding stores and 77 department store concessions. The main financial burdens for Country Road are twofold:</p><p><br></p><ol><li>The first is the 2.2 percent decline in operating margin in spite of a small increase in sales;</li><li>The second is the higher SG&amp;A expenses when compared to the overall retail environment. Country Road’s SG&amp;A expenses are 12.4 percent higher to its sister firm, David Jones.</li></ol><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Potential Solutions:</i> Managing SG&amp;A costs should be the biggest focus area for Country Road, especially given the increasing labour rates discussed before. Declining revenue in women’s wear was reported likely due to the need to respond quickly to a range of seasonal changes. This is evident in the days inventory jump by 5 days. Controlling the manufacturing cycles by more advanced planning around merchandise could benefit Country Road, ultimately improving its operating margin.</p>",
+          "text2": "<blockquote>Combatting likes of Amazon: Beyond that Country Road (and to a larger extent retailers such as Sussane Group, Cotton Group, Lorna Jane etc.) should look to up its digital offerings to enter the age of the already omni present channel strategies. The online to offline bridges (and reverse) simply do not exist at present and leveraging stores as a differentiator must exist on all digital channels. This is probably the single most efficient way to keeping Amazon at bay before succumbing to Amazon Fashion effects</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Bunnings</b></p><p><br></p><p>Bunnings Group, trading as Bunnings Warehouse, is Australia's largest household hardware chain. The chain has been owned by Wesfarmers since 1994, and has stores in both Australia and New Zealand. Again, a stellar performance in a financial sense as part of the Wesfarmers group with just one potential financial burden:</p><p><br></p><ol><li>A 1 percent dip in operating margin (probably due to tax implications).</li></ol><p><br></p><p>International expansion in the UK through the replacement of the pilot Home base store replacement will a true test to see if it will succeed further ashore with likes of well established brands like B&amp;Q.</p><p><br></p><p>I have not included in my assessment Bunnings local competitor Mitre 10 that is part of the Metcash group. It would have been an interesting and mandatory comparison to reflect on operating metrics across both, but alas I run out of time.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Combatting likes of Amazon: Carts but no conversion! The online store is sometimes an interactive catalog, but in this modern age of myriad omni-channel use cases, this doesn’t seem like enough. While retailers are experimenting with simplest shopping experiences in store (e.g., Bonobos model where inventory exists for try-before-you-buy, or Pirch’s beautiful concept SoHo store that lets consumers experience the range, etc.), the digital and store experiences of this otherwise financially successful retailer could benefit from a significant uplift.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/people-love-this-interactive-home-appliance-store-so-much-theyll-spend-hours-shopping-there-2-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/people-love-this-interactive-home-appliance-store-so-much-theyll-spend-hours-shopping-there-2.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Business Insider's review of try-before-you-buy Pirch store in SoHo.&nbsp;</i></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>BigW</b></p><p><br></p><p>As Woolworths looks to focus on the key business of grocery and liquour, the sale of its petrol business, and the liquidation of its masters’ business, it’s high time to ask whether Big W will be the next property that Woolworth liquidates. With its profits turning to losses and giant hits taken in revenue, that’s certainly understandable. Let’s look at Big W’s major issues:</p><p><br></p><ol><li>Revenues and gross margins have been on the decline, yet branch expenses continue to rise;</li><li>Significantly high COGS, which had an increase of 2.1 percent.</li></ol><p><br></p><p><i>Potential Solutions</i>: Although gross margins are relatively ok, a 2.2 percent reduction leading to negative operating net margin figures was the number one financial burden for Big W. Range management focused on consumer needs will probably allow the business to reduce clearance and/or reduce unsold inventory costs. In addition, the business has much higher branch costs (mostly employees’ costs and rent) and administration costs, therefore SG&amp;A improvements are a definite possibility. This may be the solution to restore profits, assuming Woolworth doesn’t decide to unload the retailer to someone else.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Conclusion</b></p><p><br></p><p>In the beginning of this article, I talked about Australia’s relatively unique position in the retail world. But for every up side, there is a down side. The tendency of our retailers to underinvest in digital/store offerings and the countries high SG&amp;A costs are the biggest potential problems facing the overall Australian retail market. While we are only a country of $25+M with relatively lower innovative experiences, without innovation we are open to disruption from international brands and independent operators.</p><p><br></p><p>Have some insight to add? I welcome any and all clarifications and corrections to the financials.</p><p> \n</p><p><br></p><p><i>Karthik Iyer (<a href=\"https://www.linkedin.com/in/karthikiyeribm\" target=\"_blank\">link</a>) is an associate partner at IBM with more than seventeen years’ experience working for top-five consulting firms including Accenture. He has led multiple complex projects for major clients across a variety of industries and geographical areas. His innovative solutions and topical knowledge have helped him reinvigorate retailers through the design and delivery of global e-commerce and omni channel platforms.\n</i></p>"
+        }
+      ]
+    }
+  }
+}
