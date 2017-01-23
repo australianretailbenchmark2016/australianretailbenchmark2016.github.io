@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 108,
+    "uniqCompNum": 115,
     "versionPublish": "3.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/woman-1820991-1.jpg",
     "noImageResize": "true",
@@ -179,26 +179,40 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-22",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/retail-sketch.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
+          "_name": "slider",
           "_params": {
-            "showText": false
+            "autoplay": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/retail-sketch-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "slider-30",
+          "articleLayout": false,
+          "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                <ol class=\"carousel-indicators\">\n                    <li data-app-prevent-settings=\"\" data-target=\"#slider-30\" class=\"active\" data-slide-to=\"0\"></li>\n                </ol>\n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/retail-sketch-1.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-3 text-xs-right\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -211,7 +225,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>A zoomable version of this benchmark is available <a href=\"http://extrazoom.com/image-76342.html\" target=\"_blank\">here</a></p>"
+          "text": "<p><i>A zoomable version of this benchmark is available</i> <a href=\"http://extrazoom.com/image-76342.html\" target=\"_blank\">here</a></p>"
         },
         {
           "_tags": [
@@ -294,26 +308,55 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1j",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1552.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
+          "_name": "slider",
           "_params": {
-            "showText": true
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1552-3.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Selfridges World renowed windows - London 2016 store visits",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-1563.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Selfridges World renowed windows - London 2016 store visits",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "text": "Snapshot of window display from Selfridges during my retail trip to London in 2016"
+          "_anchor": "slider-31",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -554,47 +597,60 @@
           "text": "<p>While I don’t expect Coles nor Woolworth’s to roll out Amazon’s Go style consumer checkouts or even the likes of Waitrose’s quick check any time soon, it’s time for Australian consumers to demand more interactive shopping experiences (at least in major cities).</p>"
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
+          "_name": "slider",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
+            "autoplay": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Responsive",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-6.28.25-pm.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1567-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1567.jpg",
-                "caption": "Waitrose shop &amp; scan devices",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-2-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jumbofoodmarkt-2.jpg",
-                "caption": "Jumbo shop &amp; scan devices",
-                "active": true
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": 1,
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
+            "fullScreen": false,
+            "bgColor": "#fff",
             "showBullets": false
           },
-          "_anchor": "gallery4-24",
+          "_anchor": "slider-34",
           "articleLayout": false,
-          "allItem": "All"
+          "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                \n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-6.28.25-pm.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n               \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-35",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Short stop at Jumbo in Netherlands on route to Australia 2016</i></p>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         },
         {
           "_tags": [
@@ -620,7 +676,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>JB Hi-Fi</b></p><p><br></p><p>JB HI-FI is an Australian and New Zealand retailer of consumer goods, specialising in video games, Blu-rays, DVDs, CDs, electronics/hardware and home appliances operating across 190+ locations. They have one major, immediate problem to deal with:</p><p><br></p><ol><li>JB-HIFI has the highest COGS as a percent of revenue across any retailer.</li></ol>"
+          "text": "<p><b>\u001bJB Hi-Fi</b></p><p><br></p><p>JB HI-FI is an Australian and New Zealand retailer of consumer goods, specialising in video games, Blu-rays, DVDs, CDs, electronics/hardware and home appliances operating across 190+ locations. They have one major, immediate problem to deal with:</p><p><br></p><ol><li>JB-HIFI has the highest COGS as a percent of revenue across any retailer.</li></ol>"
         },
         {
           "_tags": [
@@ -724,33 +780,49 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "slider",
           "_params": {
+            "autoplay": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "images": [
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/people-love-this-interactive-home-appliance-store-so-much-theyll-spend-hours-shopping-there-3.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/people-love-this-interactive-home-appliance-store-so-much-theyll-spend-hours-shopping-there-2-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/people-love-this-interactive-home-appliance-store-so-much-theyll-spend-hours-shopping-there-2.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Image from business Insider's review of try-before-you-buy Pirch store in SoHo.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pirch-22.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Pirch lets you take a shower, cook a meal in its stores",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
           },
-          "_anchor": "gallery1-2r",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "slider-36",
+          "articleLayout": false
         },
         {
           "_tags": [
