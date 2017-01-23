@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 115,
+    "uniqCompNum": 116,
     "versionPublish": "3.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/woman-1820991-1.jpg",
     "noImageResize": "true",
@@ -310,13 +310,13 @@
           ],
           "_name": "slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-1552-3.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -331,7 +331,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-1563.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -420,33 +420,39 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "slider",
           "_params": {
+            "autoplay": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "images": [
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/grocery-market-share.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7021b-1-800x423.png",
-                "image": "@PROJECT_PATH@/assets/images/7021b-1.png",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
           },
-          "_anchor": "gallery1-2q",
+          "_anchor": "slider-37",
           "articleLayout": false,
-          "allItem": "All"
+          "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                \n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/grocery-market-share.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
