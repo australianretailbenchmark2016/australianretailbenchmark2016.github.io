@@ -53,7 +53,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Karthik Iyer and Australian Retail Benchmark 2016. Unauthorized use and/or duplication of this material without explicit and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Karthik Iyer and Australian Retail Benchmark 2016. with appropriate and specific direction to the original content..",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -182,8 +187,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -201,18 +209,15 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
-          "_anchor": "slider-30",
           "articleLayout": false,
           "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                <ol class=\"carousel-indicators\">\n                    <li data-app-prevent-settings=\"\" data-target=\"#slider-30\" class=\"active\" data-slide-to=\"0\"></li>\n                </ol>\n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/retail-sketch-1.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-3 text-xs-right\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "slider-30"
         },
         {
           "_tags": [
@@ -309,6 +314,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": "0",
@@ -351,12 +361,7 @@
             "showBullets": true
           },
           "_anchor": "slider-31",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -423,8 +428,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -441,18 +449,15 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
-          "_anchor": "slider-37",
           "articleLayout": false,
           "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                \n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/grocery-market-share.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "slider-37"
         },
         {
           "_tags": [
@@ -609,8 +614,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -627,36 +635,33 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
-          "_anchor": "slider-34",
           "articleLayout": false,
           "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\" container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div>\n            <div>\n                \n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center active\" data-bg-video-slide=\"false\">\n                        <div class=\"mbr-table-cell\">\n                            \n                            <div class=\"container-slide\">\n                                <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-6.28.25-pm.png\">\n                                <div class=\"row\">\n                                    <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                                        \n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n               \n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "slider-34"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "content1-35",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i>Short stop at Jumbo in Netherlands on route to Australia 2016</i></p>",
-          "_styles": {
-            "P": {
-              "color": "#7c706b"
-            }
-          }
+          "text": "<p><i>Short stop at Jumbo in Netherlands on route to Australia 2016</i></p>"
         },
         {
           "_tags": [
